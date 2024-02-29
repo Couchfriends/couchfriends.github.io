@@ -1,3 +1,6 @@
 [submodule "src/games/tower-defense"]
 	path = src/games/tower-defense
 	url = git@github.com:casmo/tower-defense.git
+[submodule "src/games/space-gpt"]
+	path = src/games/space-gpt
+	url = git@github.com:Casmo/SpaceGPT.git
