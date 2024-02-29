@@ -4,3 +4,9 @@
 [submodule "src/games/space-gpt"]
 	path = src/games/space-gpt
 	url = git@github.com:Casmo/SpaceGPT.git
+[submodule "src/games/bombergirl"]
+	path = src/games/bombergirl
+	url = git@github.com:Couchfriends/html5-bombergirl.git
+[submodule "src/api"]
+	path = src/api
+	url = git@github.com:Couchfriends/Controller-API.git
