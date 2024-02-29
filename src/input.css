@@ -15,4 +15,13 @@
 body {
     font-family: PixelifySans;
 }
-  
+
+.bounce {
+    animation: bounce 2s ease infinite;
+}
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {transform: translateX(0);}
+    40% {transform: translateX(-5px);}
+    50% {transform: translateX(2px);}
+    60% {transform: translateX(-2px);}
+}
