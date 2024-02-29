@@ -13,3 +13,6 @@
 [submodule "src/controller"]
 	path = src/controller
 	url = git@github.com:Couchfriends/Controller.git
+[submodule "src/games/space-shooter"]
+	path = src/games/space-shooter
+	url = git@github.com:Couchfriends/Space-Shooter.git
