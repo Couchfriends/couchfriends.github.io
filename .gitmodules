@@ -16,3 +16,6 @@
 [submodule "src/games/space-shooter"]
 	path = src/games/space-shooter
 	url = git@github.com:Couchfriends/Space-Shooter.git
+[submodule "src/games/drakonas"]
+	path = src/games/drakonas
+	url = git@github.com:Casmo/Drakonas.git
