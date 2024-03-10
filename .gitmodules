@@ -22,3 +22,9 @@
 [submodule "src/games/js-48-tower-defense"]
 	path = src/games/js-48-tower-defense
 	url = git@github.com:Casmo/js48-1-game.git
+[submodule "src/games/pinbreak"]
+	path = src/games/pinbreak
+	url = git@github.com:Casmo/pinbreak.git
+[submodule "src/games/breakout"]
+	path = src/games/breakout
+	url = git@github.com:Couchfriends/breakout.git
