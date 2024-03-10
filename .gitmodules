@@ -31,3 +31,6 @@
 [submodule "src/games/asteroids"]
 	path = src/games/asteroids
 	url = git@github.com:Couchfriends/HTML5-Asteroids.git
+[submodule "src/games/soccer"]
+	path = src/games/soccer
+	url = git@github.com:Couchfriends/soccer.git
