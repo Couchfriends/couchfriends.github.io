@@ -28,3 +28,6 @@
 [submodule "src/games/breakout"]
 	path = src/games/breakout
 	url = git@github.com:Couchfriends/breakout.git
+[submodule "src/games/asteroids"]
+	path = src/games/asteroids
+	url = git@github.com:Couchfriends/HTML5-Asteroids.git
